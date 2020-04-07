@@ -1,0 +1,3 @@
+test document
+hello
+goodbye
